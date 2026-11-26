@@ -28,6 +28,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=1200&color=F59E0B&center=true&vCenter=true&width=600&height=45&lines=Good+morning!+%E2%98%80%EF%B8%8F;Good+evening!+%F0%9F%8C%85;Good+night!+%F0%9F%8C%99;Glad+you+stopped+by." alt="Greeting Animation" />
+Good morning! ☀️ &nbsp;·&nbsp; Good evening! 🌅 &nbsp;·&nbsp; Good night! 🌙
+
+**Glad you stopped by.**
 
 </div>
